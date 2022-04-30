@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **youseftawfik87@yahoo.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youseftawfik&show_icons=true&locale=en&layout=compact" alt="youseftawfik" /></p>
+<h3 align="left">My Stats:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youseftawfik&" alt="youseftawfik"  background-color="black"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youseftawfik&" alt="youseftawfik"  background="black"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youseftawfik&show_icons=true&locale=en&layout=compact" alt="youseftawfik" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
