@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youseftawfik&show_icons=true&locale=en&layout=compact" alt="youseftawfik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youseftawfik&" alt="youseftawfik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youseftawfik&" alt="youseftawfik"  background="black"/></p>
