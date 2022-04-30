@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Youssef Tawfik</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A Dot Net Backend Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youseftawfik&label=Profile%20views&color=0e75b6&style=flat" alt="youseftawfik" /> </p>
+
+- 🔭 I’m currently working on **E-Commerce/.Net Core**
+
+- 👨‍💻 All of my projects are available at [https://youseftawfik.github.io](https://youseftawfik.github.io)
+
+- 💬 Ask me about **Asp.Net/.Net Core/SQL Server**
 
 - 📫 How to reach me **youseftawfik87@yahoo.com**
 
