@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Tawfik</h1>
 <h3 align="center">A Dot Net Backend Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youseftawfik&label=Profile%20views&color=0e75b6&style=flat" alt="youseftawfik" /> </p>
+<hr> 
 
 - 🔭 I’m currently working on **E-Commerce/.Net Core**
 
@@ -35,6 +35,8 @@
 
 <hr>
 
+<p align="center"> 
+  <h2 align="center">Visitors count</h2>
 </p>
 <p align = "center">
   <img src="https://profile-counter.glitch.me/youseftawfik/count.svg" />
