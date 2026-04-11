@@ -82,8 +82,10 @@ var youssef = new Developer
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youseftawfik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=06b6d4&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youseftawfik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youseftawfik&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youseftawfik&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
